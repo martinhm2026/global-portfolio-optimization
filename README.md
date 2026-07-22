@@ -219,9 +219,6 @@ conclusions are available in the public project report:
 
 [View the complete project report](reports/global-portfolio-optimization-report.pdf)
 
-Personal identification numbers were removed from the public version
-before publication.
-
 ## Limitations
 
 - The analysis relies on historical market observations.
@@ -239,24 +236,6 @@ before publication.
 
 This project was developed as part of the **Finance II** course during
 the first semester of 2025.
-
-It was completed collaboratively by:
-
-- Vicente Hadad
-- Martín Huerta
-- Sebastián Tello
-- Cristóbal Vargas
-
-The repository preserves the collaborative nature of the original
-academic work. Contributor names should only be published with their
-authorization.
-
-## Author Contact
-
-**Martín Huerta**
-
-- GitHub: [martinhm2026](https://github.com/martinhm2026)
-- LinkedIn: [Add LinkedIn profile]
 
 ## Disclaimer
 
